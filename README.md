@@ -4,7 +4,7 @@
 Here you will find the *notebooks* of my projects in the area of Data Science, Machine Learning and Deep Learning.
 
 ## Projects:
-* **Analyzing the best coffees in the world:** https://rebrand.ly/27bdf
+* **Analyzing the best coffees in the world:** https://bit.ly/2WiHhEh
 
 ---
 
